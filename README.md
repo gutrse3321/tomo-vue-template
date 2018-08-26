@@ -3,5 +3,5 @@
 ---
 # BASH
 ```bash
-vue init gutrse3321/tomo-vue-template projectName
+git clone https://github.com/gutrse3321/tomo-vue-template
 ```
